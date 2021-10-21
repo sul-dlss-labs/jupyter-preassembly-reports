@@ -1,0 +1,92 @@
+{
+  "rows": [
+    {
+      "druid": "druid:rx212yq2993",
+      "errors": {},
+      "counts": {
+        "total_size": 1530211,
+        "mimetypes": {
+          "image/jpeg": 2
+        },
+        "filename_no_extension": 0
+      }
+    },
+    {
+      "druid": "druid:xk191tr8945",
+      "errors": {
+        "empty_object": true,
+        "missing_files": true
+      },
+      "counts": {
+        "total_size": 0,
+        "mimetypes": {},
+        "filename_no_extension": 0
+      }
+    },
+    {
+      "druid": "druid:sz766yw0944",
+      "errors": {},
+      "counts": {
+        "total_size": 1448949,
+        "mimetypes": {
+          "image/jpeg": 2
+        },
+        "filename_no_extension": 0
+      }
+    },
+    {
+      "druid": "druid:sh143xn6642",
+      "errors": {},
+      "counts": {
+        "total_size": 3308587,
+        "mimetypes": {
+          "image/jpeg": 2
+        },
+        "filename_no_extension": 0
+      }
+    },
+    {
+      "druid": "druid:xg322sp9596",
+      "errors": {
+        "dupes": true
+      },
+      "counts": {
+        "total_size": 6953821,
+        "mimetypes": {
+          "image/jpeg": 6
+        },
+        "filename_no_extension": 0
+      }
+    },
+    {
+      "druid": "druid:gn012km8355",
+      "errors": {},
+      "counts": {
+        "total_size": 2975415,
+        "mimetypes": {
+          "image/jpeg": 2
+        },
+        "filename_no_extension": 0
+      }
+    },
+    {
+      "druid": "druid:oo000oo0000",
+      "errors": {
+        "missing_files": true
+      },
+      "counts": {
+        "total_size": 666,
+        "mimetypes": { "image/jpeg": 1 },
+        "filename_no_extension": 0
+      }
+    }
+  ],
+  "summary": {
+    "objects_with_error": 3,
+    "mimetypes": {
+      "image/jpeg": 1320
+    },
+    "start_time": "2021-10-18 12:03:45 -0700",
+    "total_size": 1108060670
+  }
+}
